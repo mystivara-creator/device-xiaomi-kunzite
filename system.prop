@@ -1,0 +1,8 @@
+# System Properties for kunzite
+ro.product.device=kunzite
+ro.product.model=Redmi Note 15 5G
+ro.product.brand=Redmi
+ro.product.name=kunzite
+
+# Dalvik / Performance Properties
+dalvik.vm.dex2oat-threads=6
